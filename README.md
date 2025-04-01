@@ -1,1 +1,1 @@
-# Diagrama caso de uso.
+# Diagrama: caso de uso
