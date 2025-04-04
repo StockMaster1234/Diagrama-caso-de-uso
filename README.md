@@ -1,1 +1,0 @@
-# Diagrama: caso de uso
